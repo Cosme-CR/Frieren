@@ -1,0 +1,32 @@
+/* No arquivo style.css */
+body {
+    background-image: url('../imgs/Frieren.png');
+    background-size: cover;  /* Faz a imagem cobrir toda a tela */
+    background-repeat: no-repeat; /*faz a imagem nao se repetir  */
+
+
+}
+header{
+    display: flex;
+    justify-content: flex-start;/*alinha horizontalmente*/
+    gap: 30px; /*espacamento entre os intens*/
+    color: aliceblue;
+}
+header p{
+    font-size: 40px;
+}
+
+
+main{
+    color: aliceblue;
+}
+
+main h1{
+    font-size: 70px;
+    color: aliceblue;
+}
+
+main p{
+    font-size: 30px;
+    color: aliceblue;
+}
